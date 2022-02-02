@@ -1,0 +1,10 @@
+
+export { default as Logo } from './Logo'
+export { BiSearch } from 'react-icons/bi'
+export { AiOutlineSetting, AiOutlineBell } from 'react-icons/ai'
+export  { FaUserAstronaut, FaUser } from 'react-icons/fa'
+export { AiOutlinePlus } from 'react-icons/ai'
+export { BiMenuAltLeft } from 'react-icons/bi'
+export { HiDotsHorizontal } from 'react-icons/hi'
+export { default as Placeholder } from './Placeholder'
+export { default as PortmanIcon } from './Postman'

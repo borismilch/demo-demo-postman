@@ -1,0 +1,1 @@
+export const items = ['dddddddddddd', 'ddddddddddddddddd', 'ssssssssssss']
